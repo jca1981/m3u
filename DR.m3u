@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:0 group-title="Streams",DR1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8?sd=10&dw=40&rebase=on
+#EXTINF:0 group-title="Streams",DR2
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/index_3000_av-p.m3u8?sd=10&dw=40&set-akamai-hls-revision=custom&rebase=on
